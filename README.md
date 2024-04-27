@@ -52,7 +52,7 @@ The trained models achieved promising results in predicting diabetes, with accur
 
 ## Contributors
 
-- [Your Name](https://github.com/VidhiSharam)
+- [vidhi sharma](https://github.com/VidhiSharma426)
 
 ## License
 

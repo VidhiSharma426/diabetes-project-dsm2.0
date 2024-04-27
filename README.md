@@ -4,7 +4,7 @@ Certainly! Here's a template for a README file for a diabetes classification pro
 
 # Diabetes Classification
 
-![Diabetes](https://images.unsplash.com/photo-1566204779110-ccfc0346a0e2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+![Diabetes](https://media.istockphoto.com/id/1213112567/photo/blood-sugar-measurement-for-diabetes-pills-and-stethoscope.jpg?s=1024x1024&w=is&k=20&c=3g2CvvNvcqDzPA1SRGuyFiBVhD61Oi66KtSfGjhWzc0=)
 
 ## Overview
 
@@ -12,7 +12,7 @@ This project focuses on predicting the likelihood of diabetes in individuals bas
 
 ## Dataset
 
-The dataset used for this project is the [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database) available on Kaggle. It contains information about 768 female patients of Pima Indian heritage, including their pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, BMI, diabetes pedigree function, and age, as well as a target variable indicating the presence or absence of diabetes.
+The dataset used for this project is the (https://www.kaggle.com/datasets/saurabh00007/diabetescsv) available on Kaggle. It contains information about 768 female patients of Pima Indian heritage, including their pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, BMI, diabetes pedigree function, and age, as well as a target variable indicating the presence or absence of diabetes.
 
 ## Methodology
 
